@@ -1,6 +1,10 @@
 # Kod med förklaring
+När man skriver kod för till exempel mikro kontrollers så använder man C++ alltså en språkvariant av source kod (käll kod)
+
+Denna kod som man skriver måste man sedan omvandla till språk så att datorn förstår det (1:or och 0:or), denna omvadnling heter kompilera
+
 ## Setup
-Först startar med en så kallad "setup".
+Först startar man med en så kallad "setup".
 
 Kopierbart exempel:
 ```html
