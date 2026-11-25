@@ -27,9 +27,8 @@ void setup() {
 | __pinMode__ | Bestämmer hur pinnen används |
 | __LED_BUILTIN__ | Inbyggda LED-lampan |
 | __OUTPUT__ | Skickar ut signalen |
-
-__Serial.begin__ = Kommunikationen och att den startar
-__(115200)__ = Kommunikationshastigheten
+| __Serial.begin__ | Kommunikationen och att den startar |
+| __(115200)__ | Kommunikationshastigheten |
 
 ## Loop
 Sedan följs det upp med en så kallad "loop".
