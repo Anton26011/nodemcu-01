@@ -60,7 +60,7 @@ void loop() {
 |__LOW__ | LED av |
 
 
-Viktigt att tänka på:
+### Viktigt att tänka på:
 HIGH och LOW gör motsatta saker. HIGH betyder att släcka lampan och LOW betyder att tända lampan.
 
 Man man även använda siffrorna 0 och 1.
