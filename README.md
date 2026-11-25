@@ -68,3 +68,7 @@ HIGH och LOW gör motsatta saker. HIGH betyder att släcka lampan och LOW betyde
 Man kan även använda siffrorna 0 och 1, för att tända och släcka lampan.
 
 Efter varje kod kommando ska man skriva " ; " för att slutgöra kommandot
+
+Såhär ser kretsen och lampan ut:
+
+![screenshot](image/bildlampa.jpg)
