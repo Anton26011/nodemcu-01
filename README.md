@@ -59,6 +59,10 @@ void loop() {
 | __HIGH__ | LED på |
 |__LOW__ | LED av |
 
-Här är det också viktigt att veta att HIGH och LOW är motsatsen från varann. HIGH betyder att lampan ska släckas och LOW betyder att lampan ska tändas.
 
-Här är det också såklart viktigt vid slutet av ett kommando att sluta med " ; "
+Viktigt att tänka på:
+HIGH och LOW gör motsatta saker. HIGH betyder att släcka lampan och LOW betyder att tända lampan.
+
+Man man även använda siffrorna 0 och 1.
+
+Efter varje kod kommando ska man skriva " ; " för att slutgöra kommandot
