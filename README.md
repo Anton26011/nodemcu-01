@@ -26,6 +26,9 @@ pinMode =
 LED_BUILTIN = Inbyggda LED-lampan
 OUTPUT = Skickar ut signalen
 
+Serial.begin = Kommunikationen och att den startar
+115200 = Kommunikationshastigheten
+
 ## Loop
 Sedan följs det upp med en så kallad "loop".
 
@@ -41,6 +44,6 @@ En loop gör följande:
 - Innehåller programmets huvudfunktioner
 - Gör att LED-lampan kan forsätta blinka
 
-
+Här är det också viktigt att veta att HIGH och LOW är motsatsen från varann. HIGH betyder att lampan ska släckas och LOW betyder att lampan ska tändas.
 
 Här är det också såklart viktigt vid slutet av ett kommando att sluta med " ; "
