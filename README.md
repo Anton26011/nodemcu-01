@@ -3,7 +3,9 @@ När man skriver kod för till exempel mikro kontrollers så använder man C++ a
 
 Denna kod som man skriver måste man sedan omvandla till språk så att datorn förstår det (1:or och 0:or), denna omvadnling heter __compile__ (kompilera).
 
-Här kommer en enkel förklaring till hur man kodar en LED-lampa via en mikrokontroller.
+## Vad vi ska utföra
+
+Här kommer en enkel förklaring till hur man kodar en LED-lampa som blinkar efter 500ms via den inbyggda lampan på mikrokontroller.
 
 ## Setup
 Först startar man med en så kallad "setup".
