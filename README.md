@@ -26,8 +26,8 @@ __pinMode__ = Bestämmer hur pinnen används
 __LED_BUILTIN__ = Inbyggda LED-lampan
 __OUTPUT__ = Skickar ut signalen
 
-Serial.begin = Kommunikationen och att den startar
-115200 = Kommunikationshastigheten
+__Serial.begin__ = Kommunikationen och att den startar
+__(115200)__ = Kommunikationshastigheten
 
 ## Loop
 Sedan följs det upp med en så kallad "loop".
