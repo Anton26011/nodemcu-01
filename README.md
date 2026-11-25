@@ -24,6 +24,7 @@ void setup() {
 
 | Kod namn | Förklaring |
 | --- | --- |
+| __void__ | Ett kommando som ger inget resultat tillbaks |
 | __pinMode__ | Bestämmer hur pinnen används |
 | __LED_BUILTIN__ | Inbyggda LED-lampan |
 | __OUTPUT__ | Skickar ut signalen |
