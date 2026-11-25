@@ -32,6 +32,11 @@ __(115200)__ = Kommunikationshastigheten
 ## Loop
 Sedan följs det upp med en så kallad "loop".
 
+En loop gör följande:
+- Körs om och om igen
+- Innehåller programmets huvudfunktioner
+- Gör att LED-lampan kan forsätta blinka
+
 Kopierbart exempel:
 ```html
 void loop() {
@@ -41,11 +46,6 @@ void loop() {
   delay(500);
 }
 ```
-
-En loop gör följande:
-- Körs om och om igen
-- Innehåller programmets huvudfunktioner
-- Gör att LED-lampan kan forsätta blinka
 
 Här är det också viktigt att veta att HIGH och LOW är motsatsen från varann. HIGH betyder att lampan ska släckas och LOW betyder att lampan ska tändas.
 
