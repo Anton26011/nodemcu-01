@@ -22,7 +22,7 @@ void setup() {
 }
 ```
 
-pinMode = 
+pinMode = Bestämmer hur pinnen används
 LED_BUILTIN = Inbyggda LED-lampan
 OUTPUT = Skickar ut signalen
 
