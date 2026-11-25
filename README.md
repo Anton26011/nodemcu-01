@@ -22,9 +22,9 @@ void setup() {
 }
 ```
 
-pinMode = Bestämmer hur pinnen används
-LED_BUILTIN = Inbyggda LED-lampan
-OUTPUT = Skickar ut signalen
+__pinMode__ = Bestämmer hur pinnen används
+__LED_BUILTIN__ = Inbyggda LED-lampan
+__OUTPUT__ = Skickar ut signalen
 
 Serial.begin = Kommunikationen och att den startar
 115200 = Kommunikationshastigheten
