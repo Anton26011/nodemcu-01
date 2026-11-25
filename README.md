@@ -65,6 +65,6 @@ void loop() {
 ### Viktigt att tänka på:
 HIGH och LOW gör motsatta saker. HIGH betyder att släcka lampan och LOW betyder att tända lampan.
 
-Man man även använda siffrorna 0 och 1.
+Man kan även använda siffrorna 0 och 1, för att tända och släcka lampan.
 
 Efter varje kod kommando ska man skriva " ; " för att slutgöra kommandot
