@@ -35,7 +35,10 @@ Sedan följs det upp med en så kallad "loop".
 Kopierbart exempel:
 ```html
 void loop() {
-
+  digitalWrite(LED_BUILTIN, HIGH);
+  delay(500);
+  digitalWrite(LED_BUILTIN, LOW);
+  delay(500);
 }
 ```
 
