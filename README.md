@@ -5,7 +5,7 @@ Denna kod som man skriver måste man sedan omvandla till språk så att datorn f
 
 ## Vad vi ska utföra
 
-Här kommer en enkel förklaring till hur man kodar en LED-lampa som blinkar efter 500ms via den inbyggda lampan på mikrokontroller.
+Här kommer en enkel kod förklaring till hur man kodar en LED-lampa som blinkar efter 500ms via den inbyggda lampan på mikrokontroller.
 
 ## Setup
 Först startar man med en så kallad "setup".
