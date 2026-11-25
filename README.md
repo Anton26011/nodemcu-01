@@ -22,9 +22,11 @@ void setup() {
 }
 ```
 
-__pinMode__ = Bestämmer hur pinnen används
-__LED_BUILTIN__ = Inbyggda LED-lampan
-__OUTPUT__ = Skickar ut signalen
+| Kod namn | Förklaring |
+| --- | --- |
+| __pinMode__ | Bestämmer hur pinnen används |
+| __LED_BUILTIN__ | Inbyggda LED-lampan |
+| __OUTPUT__ | Skickar ut signalen |
 
 __Serial.begin__ = Kommunikationen och att den startar
 __(115200)__ = Kommunikationshastigheten
