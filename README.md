@@ -49,6 +49,16 @@ void loop() {
 }
 ```
 
+| Kod namn | Förklaring |
+| --- | --- |
+| __loop__ | Kommandot körs om och om igen |
+| __digitalWrite__ | Skickar signalen till en pinne |
+| __LED_BUILTIN__ | Den integrerade lampan på kontrollen |
+| __Delay__ | Pausar programet en stund |
+| __500__ | 500 ms väntan |
+| __HIGH__ | LED på |
+|__LOW__ | LED av |
+
 Här är det också viktigt att veta att HIGH och LOW är motsatsen från varann. HIGH betyder att lampan ska släckas och LOW betyder att lampan ska tändas.
 
 Här är det också såklart viktigt vid slutet av ett kommando att sluta med " ; "
