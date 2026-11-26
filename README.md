@@ -1,7 +1,7 @@
 # Kod med förklaring
 När man skriver kod för till exempel mikro kontrollers så använder man C++ alltså en språkvariant av __source kod__ (käll kod).
 
-Denna kod som man skriver måste man sedan omvandla till språk så att datorn förstår det (1:or och 0:or), denna omvadnling heter __compile__ (kompilera).
+Denna kod som man skriver måste man sedan omvandla till språk så att datorn förstår det som __object kod__ (1:or och 0:or), denna omvadnling heter __compile__ (kompilera).
 
 ## Vad vi ska utföra
 
