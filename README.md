@@ -57,8 +57,8 @@ void loop() {
 | __LED_BUILTIN__ | Den integrerade lampan på kontrollen |
 | __Delay__ | Pausar programet en stund |
 | __500__ | 500 ms väntan |
-| __HIGH__ | LED på |
-|__LOW__ | LED av |
+| __HIGH__ | LED av |
+|__LOW__ | LED på |
 
 
 ### Viktigt att tänka på:
