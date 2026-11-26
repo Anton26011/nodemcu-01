@@ -53,7 +53,6 @@ void loop() {
 
 | Kod namn | Förklaring |
 | --- | --- |
-| __loop__ | Kommandot körs om och om igen |
 | __digitalWrite__ | Skickar signalen till en pinne |
 | __LED_BUILTIN__ | Den integrerade lampan på kontrollen |
 | __Delay__ | Pausar programet en stund |
