@@ -68,6 +68,6 @@ Man kan även använda siffrorna 0 och 1, för att tända och släcka lampan.
 
 Efter varje kod kommando ska man skriva " ; " för att slutgöra kommandot
 
-Såhär kan en krets och lampan som blinkar ser ut:
+Såhär kan en krets och lampa som blinkar ser ut:
 
 ![screenshot](image/bildlampa.jpg)
