@@ -10,11 +10,6 @@ Här kommer en enkel kod förklaring till hur man kodar en LED-lampa som blinkar
 ## Setup
 Först startar man med en så kallad "setup".
 
-En __setup()__ gör följande:
-- Körs en gång vid start.
-- Ställer in pinnar med pinMode().
-- Startar kommunikation med Serial.begin().
-
 Kopierbart exempel:
 ```html
 void setup() {
