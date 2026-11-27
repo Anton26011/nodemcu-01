@@ -31,11 +31,6 @@ void setup() {
 ## Loop
 Sedan följs det upp med en så kallad "loop".
 
-En __loop()__ gör följande:
-- Körs om och om igen
-- Innehåller programmets huvudfunktioner
-- Gör att LED-lampan kan forsätta blinka
-
 Kopierbart exempel:
 ```html
 void loop() {
