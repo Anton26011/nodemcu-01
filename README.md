@@ -11,7 +11,7 @@ Här kommer en enkel kod förklaring till hur man kodar en LED-lampa som blinkar
 Först startar man med en så kallad "setup".
 
 Kopierbart exempel:
-```html
+```C++
 void setup() {
     pinMode(LED_BUILTIN, OUTPUT);
     Serial.begin(115200);
@@ -32,7 +32,7 @@ void setup() {
 Sedan följs det upp med en så kallad "loop".
 
 Kopierbart exempel:
-```html
+```C++
 void loop() {
   digitalWrite(LED_BUILTIN, HIGH);
   delay(500);
