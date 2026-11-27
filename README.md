@@ -52,7 +52,7 @@ void loop() {
 
 
 ### Viktigt att tänka på:
-HIGH betyder att släcka lampan och LOW betyder att tända lampan. Man kan ibland förväxla det att de gör motsatta saker på grund av deras namn.
+I detta fallet kodar man för den inbyggda LED lampan och då betyder HIGH att släcka lampan och LOW att tända lampan. Man kan ibland förväxla det att de gör motsatta saker på grund av deras namn.
 
 Man kan även använda siffrorna 0 och 1, för att tända och släcka lampan.
 
